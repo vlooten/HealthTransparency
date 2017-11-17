@@ -1,0 +1,10 @@
+"LIB_BENEF_QUALITE2";"n";"TotalAmount";"MinAmount";"MaxAmount";"MedianTransactionAmount";"Q1";"Q3";"MeanTransactionAmount"
+"Medical doctors";1355743;145524710;10;36221;45;25;60;107,34
+"Nurse";153710;9329403;10;8487;29;20;55;60,69
+"Pharmacist";115537;8030360;10;7800;33;21;54;69,5
+"Others";91792;5352244;10;15000;30;20;50;58,31
+"Dental surgeon";30546;1570677;10;6750;30;15;40;51,42
+"Hearing care professional";9331;507587;10;2980;29;20;46;54,4
+"Optician";7672;378321;10;2846;31;21;50;49,31
+"Midwife";4955;197139;10;1586;25;18;44;39,79
+"physiotherapist";3290;165917;10;1474;28;19;50;50,43

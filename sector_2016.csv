@@ -1,0 +1,5 @@
+"ent_secteur_lab";"n";"TotalAmount";"MinAmount";"MaxAmount";"MedianTransactionAmount";"Q1";"Q3";"MeanTransactionAmount"
+"Pharma";1209804;154037125;10;2400000;40;23;59;127,32
+"Medical Devices";341898;52908317;10;4e+05;41;23;68;154,75
+"Others";154958;19268042;10;871920;30;21;59;124,34
+"Cosmetic products";13697;787036;10;18400;23;15;45;57,46
